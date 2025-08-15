@@ -88,9 +88,3 @@ Sorting students by marks or name
 👨‍💻 Author
 
 Moosa Ansari
-
-GitHub Profile
-
-
-Do you want me to **also merge your final Java code into this README** so people see  the working code in the same file? That would make it a perfect GitHub project.
-
